@@ -97,3 +97,15 @@
   </a>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/musfiquerprottoy/BRACU-CSE220" target="_blank">
+    <img src="https://img.shields.io/badge/BRACU--CSE220-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE220 Repo" />
+  </a>
+  <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
+    <img src="https://img.shields.io/badge/BRACU--CSE110-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE110 Repo" />
+  </a>
+  <a href="https://github.com/musfiquerprottoy/PDF-to-JPG-Converter" target="_blank">
+    <img src="https://img.shields.io/badge/PDF--to--JPG--Converter-181717?style=for-the-badge&logo=github&logoColor=white" alt="PDF-to-JPG-Converter Repo" />
+  </a>
+</p>
