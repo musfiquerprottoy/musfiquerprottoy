@@ -31,3 +31,5 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 [![Project Demo](https://your-gif-link.com/demo.gif)](https://github.com/yourproject)
+
+![Current UTC Time](https://time.is/UTC.svg)
