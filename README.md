@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <h2> BRAC UNIVERSITY CSE RESOURCES: </h2>
+  <h2> BRAC University CSE Resources: </h2>
     <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
     <img src="https://img.shields.io/badge/BRACU--CSE110-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE110 Repo" />
       
@@ -23,7 +23,7 @@
   </a>
   
   <a href="https://github.com/musfiquerprottoy/BRACU-CSE330" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU-CSE330-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE330 Repo" />
+    <img src="https://img.shields.io/badge/BRACU--CSE330-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE330 Repo" />
   </a>
 </p>
 
@@ -119,5 +119,3 @@
   </a>
   </a>
 </p>
-
-
