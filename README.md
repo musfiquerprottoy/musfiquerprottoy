@@ -78,6 +78,11 @@
   </a>
 </p>
 
+<p align="center>
 <a href="https://facebook.com/musfiquer.prottoy.1" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Find me on Facebook" width="48" height="48" style="border-radius:50%;">
+  <a href="https://instagram.com/musfiquer_prottoy" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Find me on Instagram" width="48" height="48" style="border-radius:50%;">
 </a>
+</a>
+</p>
