@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <h2> Find All the Repository here: </h2>
+  <h2> BRAC UNIVERSITY CSE RESOURCES: </h2>
     <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
     <img src="https://img.shields.io/badge/BRACU--CSE110-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE110 Repo" />
       
@@ -18,12 +18,12 @@
     <img src="https://img.shields.io/badge/BRACU--CSE220-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE220 Repo" />
   </a>
   
-  <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU--CSE110-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE110 Repo" />
+  <a href="https://github.com/musfiquerprottoy/BRACU-CSE221" target="_blank">
+    <img src="https://img.shields.io/badge/BRACU--CSE221-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE221 Repo" />
   </a>
   
-  <a href="https://github.com/musfiquerprottoy/PDF-to-JPG-Converter" target="_blank">
-    <img src="https://img.shields.io/badge/PDF--to--JPG--Converter-181717?style=for-the-badge&logo=github&logoColor=white" alt="PDF-to-JPG-Converter Repo" />
+  <a href="https://github.com/musfiquerprottoy/BRACU-CSE330" target="_blank">
+    <img src="https://img.shields.io/badge/BRACU-CSE330-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE330 Repo" />
   </a>
 </p>
 
