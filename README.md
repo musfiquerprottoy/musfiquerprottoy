@@ -24,3 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=musfiquerprottoy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![View Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
+[![Send Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
