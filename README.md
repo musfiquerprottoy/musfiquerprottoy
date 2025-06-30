@@ -77,3 +77,7 @@
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Send Email">
   </a>
 </p>
+
+<a href="https://facebook.com/musfiquer.prottoy.1" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Find me on Facebook" width="48" height="48" style="border-radius:50%;">
+</a>
