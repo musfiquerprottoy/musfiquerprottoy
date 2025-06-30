@@ -4,8 +4,10 @@
   A passionate and curious learner currently studying Computer Science & Engineering at BRAC University.<br>
   I love exploring the world of technology through hands-on projects and collaborative problem-solving.
 </p>
-## 🌐 Socials:
+
+
 <p align="center">
+  <h2> 🌐 Socials:</h2>
   <a href="https://discord.gg/musfiquerprottoy"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://facebook.com/musfiquer.prottoy.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/musfiquer_prottoy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
