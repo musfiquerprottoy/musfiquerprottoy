@@ -27,3 +27,5 @@
 
 [![View Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 [![Send Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
