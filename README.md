@@ -91,8 +91,8 @@
   <a href="https://linkedin.com/in/musfiquer-prottoy" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Find me on LinkedIn" width="48" height="48" style="border-radius:50%;">
   </a>
-  <!-- Twitter/X -->
+  <!-- X (Twitter) -->
   <a href="https://x.com/musfiquerR" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png" alt="Find me on Twitter (X)" width="48" height="48" style="border-radius:50%;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/x-circled.png" alt="Find me on X" width="48" height="48" style="border-radius:50%;">
   </a>
 </p>
