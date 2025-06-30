@@ -10,8 +10,9 @@
     <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
     <img src="https://img.shields.io/badge/BRACU--CSE110-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE110 Repo" />
       
-    <a href="https://github.com/musfiquerprottoy/BRACU-CSE111" target="_blank">
+  <a href="https://github.com/musfiquerprottoy/BRACU-CSE111" target="_blank">
     <img src="https://img.shields.io/badge/BRACU--CSE111-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE111 Repo" />
+  </a>
       
   <a href="https://github.com/musfiquerprottoy/BRACU-CSE220" target="_blank">
     <img src="https://img.shields.io/badge/BRACU--CSE220-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE220 Repo" />
