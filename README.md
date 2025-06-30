@@ -93,6 +93,7 @@
   </a>
   <!-- X (Twitter) -->
   <a href="https://x.com/musfiquerR" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x-circled.png" alt="Find me on X" width="48" height="48" style="border-radius:50%;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="Find me on X" width="48" height="48">
+  </a>
   </a>
 </p>
