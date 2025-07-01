@@ -5,6 +5,25 @@
   I love exploring the world of technology through hands-on projects and collaborative problem-solving.
 </p>
 
+
+
+<p align="center">
+  <h2> 🌐 Socials:</h2>
+  <a href="https://discord.gg/musfiquerprottoy"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://facebook.com/musfiquer.prottoy.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/musfiquer_prottoy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/musfiquer-prottoy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pinterest.com/Coming"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
+  <a href="https://quora.com/profile/Musfiquer"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
+  <a href="https://reddit.com/user/Prottoy"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://stackoverflow.com/users/Prottoy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://twitch.tv/coming"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://x.com/MusfiquerR"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+  <a href="https://youtube.com/@Nai"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://codepen.io/Comingsoon"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen"></a>
+  <a href="mailto:musfiquer36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 <p align="center">
   <h2> BRAC University CSE Resources: </h2>
     <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
@@ -25,24 +44,6 @@
   <a href="https://github.com/musfiquerprottoy/BRACU-CSE330" target="_blank">
     <img src="https://img.shields.io/badge/BRACU--CSE330-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE330 Repo" />
   </a>
-</p>
-
-
-<p align="center">
-  <h2> 🌐 Socials:</h2>
-  <a href="https://discord.gg/musfiquerprottoy"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://facebook.com/musfiquer.prottoy.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/musfiquer_prottoy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/musfiquer-prottoy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pinterest.com/Coming"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="https://quora.com/profile/Musfiquer"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
-  <a href="https://reddit.com/user/Prottoy"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
-  <a href="https://stackoverflow.com/users/Prottoy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://twitch.tv/coming"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
-  <a href="https://x.com/MusfiquerR"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-  <a href="https://youtube.com/@Nai"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://codepen.io/Comingsoon"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen"></a>
-  <a href="mailto:musfiquer36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 📊 GitHub Stats:
