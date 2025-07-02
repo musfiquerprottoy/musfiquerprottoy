@@ -120,6 +120,7 @@
   </a>
   </a>
 </p>
-<a>
+
+<a align="center">
   <h2>Good Bye, See you later</h2>
 </a>
