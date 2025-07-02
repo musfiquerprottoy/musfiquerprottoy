@@ -122,5 +122,5 @@
 </p>
 
 <a align="center">
-  <h2>Good Bye, See you later</h2>
+  <h2 align="center">Good Bye, See you later</h2>
 </a>
