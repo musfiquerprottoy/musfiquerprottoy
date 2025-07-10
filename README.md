@@ -120,7 +120,3 @@
   </a>
   </a>
 </p>
-
-<a>
-  <h2 align="center">Good Bye, See you later.</h2>
-</a>
